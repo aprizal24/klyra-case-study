@@ -40,7 +40,7 @@ export const metadata = {
   },
 
   alternates: {
-    canonical: "https://klyra-case-study.vercel.app",
+    canonical: "https://klyra-case-study.vercel.app/",
   },
 
   openGraph: {
