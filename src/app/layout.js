@@ -5,7 +5,7 @@ export const metadata = {
   title: "Klyra — Personal Finance App Case Study",
   description:
     "A UI/UX case study showcasing the end-to-end design process of a personal finance application focused on budgeting, savings, expense tracking, and financial insights.",
-
+  verification: {google: "3zTDXL5u5yLpdWx4En-lxeAKeEXH4WEC-XnmPlcu8R4"},
   keywords: [
     "Klyra",
     "Personal Finance App",
