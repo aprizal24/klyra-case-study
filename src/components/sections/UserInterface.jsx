@@ -76,7 +76,7 @@ export default function UserInterface() {
   return (
     <section
       aria-label="User interface"
-      className="relative w-full bg-[#F0F0FF] px-6 py-20 sm:px-10 sm:py-24"
+      className="relative w-full bg-[#F0F0FF] px-6 pt-20 sm:px-10 sm:pt-24 pb-10 sm:pb-10"
     >
       <div className="mx-auto w-full max-w-[1100px]">
         <SectionLabel />

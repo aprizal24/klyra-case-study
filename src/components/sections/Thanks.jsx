@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 export default function Thanks() {
   return (
-    <section className="relative w-full bg-[#F0F0FF] overflow-hidden py-36 min-h-[70vh]">
+    <section className="relative w-full bg-[#F0F0FF] px-6 pt-20 sm:px-10 sm:pt-24 pb-10 sm:pb-10">
       {/* Subtle glow behind text */}
       <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[700px] rounded-full bg-[#C4D8FF]/20 blur-[180px] pointer-events-none -z-10" />
 
