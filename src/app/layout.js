@@ -39,6 +39,10 @@ export const metadata = {
     follow: true,
   },
 
+  alternates: {
+    canonical: "https://klyra-case-study.vercel.app",
+  },
+
   openGraph: {
     title: "Klyra — Personal Finance App Case Study",
     description:
