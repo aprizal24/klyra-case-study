@@ -4,5 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/",
     },
+    sitemap: "https://klyra-case-study.vercel.app/sitemap.xml",
   };
 }
