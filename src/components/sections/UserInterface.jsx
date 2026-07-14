@@ -82,15 +82,6 @@ export default function UserInterface() {
         <SectionLabel />
 
         <div className="mt-10 sm:mt-12">
-          <motion.h2
-            className="text-[32px] font-bold tracking-tight text-zinc-900 sm:text-[40px]"
-            initial={{ opacity: 0, y: 12 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.7 }}
-            transition={{ duration: 0.75, ease: "easeOut" }}
-          >
-            User Interface
-          </motion.h2>
           <motion.p
             className="mt-4 text-[15px] leading-relaxed text-zinc-600 sm:text-[16px]"
             initial={{ opacity: 0, y: 12 }}
